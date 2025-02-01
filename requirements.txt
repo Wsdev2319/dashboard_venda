@@ -1,43 +1,46 @@
-altair                  
+Package                   Version
+------------------------- -----------
+altair                    
 attrs                     
-blinker                   
+blinker                  
 cachetools                
 certifi                   
 charset-normalizer        
 click                     
 colorama                  
-gitdb                    
-GitPython                
-idna                     
+gitdb                     
+GitPython                 
+idna                      
 Jinja2                    
-jsonschema               
+jsonschema                
 jsonschema-specifications 
 markdown-it-py            
-MarkupSafe               
+MarkupSafe                
 mdurl                     
-narwhals                 
+narwhals                  
 numpy                     
-packaging                
+packaging               
 pandas                    
-pillow                   
+pillow                    
 pip                       
 plotly                    
-protobuf                 
-pyarrow                  
+protobuf                  
+pyarrow                   
 pydeck                    
-Pygments                 
-python-dateutil         
+Pygments                  
+python-dateutil           
 pytz                      
-requests                  2.32.3
-rich                      13.9.4
-rpds-py                   0.22.3
-six                       1.17.0
-smmap                     5.0.2
-streamlit                 1.41.1
-tenacity                  9.0.0
-toml                      0.10.2
-tornado                   6.4.2
-typing_extensions         4.12.2
-tzdata                    2025.1
-urllib3                   2.3.0
-watchdog                  6.0.0
+referencing               
+requests                  
+rich                     
+rpds-py                   
+six                       
+smmap                    
+streamlit                 
+tenacity                  
+toml                      
+tornado                   
+typing_extensions         
+tzdata                    
+urllib3                   
+watchdog                  
